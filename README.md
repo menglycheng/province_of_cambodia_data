@@ -1,4 +1,4 @@
-# province_of_cambodia_data
+# province of cambodia data
 This is a Scrapping data of all provinces of Cambodia and also include some such as ISO , Capital, District.
 
 ## Objective 
@@ -23,6 +23,5 @@ pip install beautifulsoup4
 -  District Name as Khmer Language 
 -  District Name as English Langauge 
 -  Population of People in District
--  
 ## Resource 
 - https://en.wikipedia.org/wiki/Provinces_of_Cambodia
