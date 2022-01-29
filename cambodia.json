@@ -1,0 +1,1115 @@
+[
+  {
+    "Province_EN": "Banteay Meanchey",
+    "Province_KH": "បន្ទាយមានជ័យ",
+    "Capital": "Serei Saophoan",
+    "Population(2019)": "861,883",
+    "Area": "6,679",
+    "Density": "129",
+    "ISO": "KH-1",
+    "District": [
+      {
+        "ISO_Code": "01-02",
+        "District_Name_EN": "Mongkol Borey",
+        "District_Name_KH": "ស្រុកមង្គលបូរី",
+        "Population(2019)": "187,286"
+      },
+      {
+        "ISO_Code": "01-03",
+        "District_Name_EN": "Phnom Srok",
+        "District_Name_KH": "ស្រុកភ្នំស្រុក",
+        "Population(2019)": "65,945"
+      },
+      {
+        "ISO_Code": "01-04",
+        "District_Name_EN": "Preah Netr Preah",
+        "District_Name_KH": "ស្រុកព្រះនេត្រព្រះ",
+        "Population(2019)": "124,902"
+      },
+      {
+        "ISO_Code": "01-05",
+        "District_Name_EN": "Ou Chrov",
+        "District_Name_KH": "ស្រុកអូរជ្រៅ",
+        "Population(2019)": "63,413"
+      },
+      {
+        "ISO_Code": "01-06",
+        "District_Name_EN": "Serei Saophoan",
+        "District_Name_KH": "ក្រុងសិរីសោភ័ណ",
+        "Population(2019)": "99,019"
+      },
+      {
+        "ISO_Code": "01-07",
+        "District_Name_EN": "Thmar Puok",
+        "District_Name_KH": "ស្រុកថ្មពួក",
+        "Population(2019)": "76,926"
+      },
+      {
+        "ISO_Code": "01-08",
+        "District_Name_EN": "Svay Chek",
+        "District_Name_KH": "ស្រុកស្វាយចេក",
+        "Population(2019)": "81,106"
+      },
+      {
+        "ISO_Code": "01-09",
+        "District_Name_EN": "Malai",
+        "District_Name_KH": "ស្រុកម៉ាឡៃ",
+        "Population(2019)": "55,721"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Battambang",
+    "Province_KH": "បាត់ដំបង",
+    "Capital": "Battambang",
+    "Population(2019)": "997,169",
+    "Area": "11,702",
+    "Density": "84",
+    "ISO": "KH-2",
+    "District": [
+      {
+        "ISO_Code": "02-01",
+        "District_Name_EN": "Banan",
+        "District_Name_KH": "ស្រុកបាណន់",
+        "Population(2019)": "86,486"
+      },
+      {
+        "ISO_Code": "02-02",
+        "District_Name_EN": "Thma Koul",
+        "District_Name_KH": "ស្រុកថ្មគោល",
+        "Population(2019)": "105,982"
+      },
+      {
+        "ISO_Code": "02-03",
+        "District_Name_EN": "Battambang Municipality",
+        "District_Name_KH": "ក្រុងបាត់ដំបង",
+        "Population(2019)": "119,251"
+      },
+      {
+        "ISO_Code": "02-04",
+        "District_Name_EN": "Bavel",
+        "District_Name_KH": "ស្រុកបវេល",
+        "Population(2019)": "92,306"
+      },
+      {
+        "ISO_Code": "02-05",
+        "District_Name_EN": "Aek Phnom",
+        "District_Name_KH": "ស្រុកឯកភ្នំ",
+        "Population(2019)": "71,120"
+      },
+      {
+        "ISO_Code": "02-06",
+        "District_Name_EN": "Moung Russei",
+        "District_Name_KH": "ស្រុកមោងឫស្សី",
+        "Population(2019)": "103,841"
+      },
+      {
+        "ISO_Code": "02-07",
+        "District_Name_EN": "Rotanak Mondol",
+        "District_Name_KH": "ស្រុករតនមណ្ឌល",
+        "Population(2019)": "38,848"
+      },
+      {
+        "ISO_Code": "02-08",
+        "District_Name_EN": "Sangkae",
+        "District_Name_KH": "ស្រុកសង្កែ",
+        "Population(2019)": "111,118"
+      },
+      {
+        "ISO_Code": "02-09",
+        "District_Name_EN": "Samlaut",
+        "District_Name_KH": "ស្រុកសំឡូត",
+        "Population(2019)": "43,715"
+      },
+      {
+        "ISO_Code": "02-10",
+        "District_Name_EN": "Sampov Loun",
+        "District_Name_KH": "ស្រុកសំពៅលូន",
+        "Population(2019)": "37,323"
+      },
+      {
+        "ISO_Code": "02-11",
+        "District_Name_EN": "Phnom Proek",
+        "District_Name_KH": "ស្រុកភ្នំព្រឹក",
+        "Population(2019)": "44,741"
+      },
+      {
+        "ISO_Code": "02-12",
+        "District_Name_EN": "Kamrieng",
+        "District_Name_KH": "ស្រុកកំរៀង",
+        "Population(2019)": "53,076"
+      },
+      {
+        "ISO_Code": "02-13",
+        "District_Name_EN": "Koas Krala",
+        "District_Name_KH": "ស្រុកគាស់ក្រឡ",
+        "Population(2019)": "30,192"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kampong Cham",
+    "Province_KH": "កំពង់ចាម",
+    "Capital": "Kampong Cham",
+    "Population(2019)": "899,791",
+    "Area": "4,549",
+    "Density": "197",
+    "ISO": "KH-3",
+    "District": [
+      {
+        "ISO_Code": "03-01",
+        "District_Name_EN": "Batheay",
+        "District_Name_KH": "ស្រុកបាធាយ",
+        "Population(2019)": "106,997"
+      },
+      {
+        "ISO_Code": "03-02",
+        "District_Name_EN": "Chamkar Loeu",
+        "District_Name_KH": "ស្រុកចំការលើ",
+        "Population(2019)": "101,675"
+      },
+      {
+        "ISO_Code": "03-03",
+        "District_Name_EN": "Cheung Prey",
+        "District_Name_KH": "ស្រុកជើងព្រៃ",
+        "Population(2019)": "92,898"
+      },
+      {
+        "ISO_Code": "03-05",
+        "District_Name_EN": "Kampong Cham Municipality",
+        "District_Name_KH": "ក្រុងកំពង់ចាម",
+        "Population(2019)": "38,365"
+      },
+      {
+        "ISO_Code": "03-06",
+        "District_Name_EN": "Kampong Siem",
+        "District_Name_KH": "ស្រុកកំពង់សៀម",
+        "Population(2019)": "94,729"
+      },
+      {
+        "ISO_Code": "03-07",
+        "District_Name_EN": "Kang Meas",
+        "District_Name_KH": "ស្រុកកងមាស",
+        "Population(2019)": "85,488"
+      },
+      {
+        "ISO_Code": "03-08",
+        "District_Name_EN": "Koh Sotin",
+        "District_Name_KH": "ស្រុកកោះសូទិន",
+        "Population(2019)": "48,069"
+      },
+      {
+        "ISO_Code": "03-13",
+        "District_Name_EN": "Prey Chhor",
+        "District_Name_KH": "ស្រុកព្រៃឈរ",
+        "Population(2019)": "133,712"
+      },
+      {
+        "ISO_Code": "03-14",
+        "District_Name_EN": "Srey Santhor",
+        "District_Name_KH": "ស្រុកស្រីសន្ធរ",
+        "Population(2019)": "81,687"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kampong Chhnang",
+    "Province_KH": "កំពង់ឆ្នាំង",
+    "Capital": "Kampong Chhnang",
+    "Population(2019)": "527,027",
+    "Area": "5,521",
+    "Density": "95",
+    "ISO": "KH-4",
+    "District": [
+      {
+        "ISO_Code": "04-01",
+        "District_Name_EN": "Baribo",
+        "District_Name_KH": "ស្រុកបរិបូណ៌",
+        "Population(2019)": "55,371"
+      },
+      {
+        "ISO_Code": "04-02",
+        "District_Name_EN": "Chol Kiri",
+        "District_Name_KH": "ស្រុកជលគីរី",
+        "Population(2019)": "31,322"
+      },
+      {
+        "ISO_Code": "04-03",
+        "District_Name_EN": "Kampong Chhnang Municipality",
+        "District_Name_KH": "ក្រុងកំពង់ឆ្នាំង",
+        "Population(2019)": "41,080"
+      },
+      {
+        "ISO_Code": "04-04",
+        "District_Name_EN": "Kampong Leng",
+        "District_Name_KH": "ស្រុកកំពង់លែង",
+        "Population(2019)": "44,066"
+      },
+      {
+        "ISO_Code": "04-05",
+        "District_Name_EN": "Kampong Tralach",
+        "District_Name_KH": "ស្រុកកំពង់ត្រឡាច",
+        "Population(2019)": "99,356"
+      },
+      {
+        "ISO_Code": "04-06",
+        "District_Name_EN": "Rolea Bier",
+        "District_Name_KH": "ស្រុករលាប្អៀរ",
+        "Population(2019)": "103,219"
+      },
+      {
+        "ISO_Code": "04-07",
+        "District_Name_EN": "Samakki Meanchey",
+        "District_Name_KH": "ស្រុកសាមគ្គីមានជ័យ",
+        "Population(2019)": "81,197"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kampong Speu",
+    "Province_KH": "កំពង់ស្ពឺ",
+    "Capital": "Chbar Mon",
+    "Population(2019)": "877,523",
+    "Area": "7,017",
+    "Density": "124",
+    "ISO": "KH-5",
+    "District": [
+      {
+        "ISO_Code": "05-01",
+        "District_Name_EN": "Basedth",
+        "District_Name_KH": "ស្រុកបរសេដ្ឋ",
+        "Population(2019)": "136,971"
+      },
+      {
+        "ISO_Code": "05-02",
+        "District_Name_EN": "Chbar Mon Municipality",
+        "District_Name_KH": "ក្រុងច្បារមន",
+        "Population(2019)": "50,359"
+      },
+      {
+        "ISO_Code": "05-03",
+        "District_Name_EN": "Kong Pisei",
+        "District_Name_KH": "ស្រុកគងពិសី",
+        "Population(2019)": "145,476"
+      },
+      {
+        "ISO_Code": "05-04",
+        "District_Name_EN": "Aoral",
+        "District_Name_KH": "ស្រុកឱរ៉ាល់",
+        "Population(2019)": "39,544"
+      },
+      {
+        "ISO_Code": "05-05",
+        "District_Name_EN": "Oudong",
+        "District_Name_KH": "ស្រុកឧដុង្គ",
+        "Population(2019)": "145,311"
+      },
+      {
+        "ISO_Code": "05-06",
+        "District_Name_EN": "Phnom Sruoch",
+        "District_Name_KH": "ស្រុកភ្នំស្រួច",
+        "Population(2019)": "104,438"
+      },
+      {
+        "ISO_Code": "05-07",
+        "District_Name_EN": "Samraong Tong",
+        "District_Name_KH": "ស្រុកសំរោងទង",
+        "Population(2019)": "182,774"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kampong Thom",
+    "Province_KH": "កំពង់ធំ",
+    "Capital": "Steung Saen",
+    "Population(2019)": "681,549",
+    "Area": "13,814",
+    "Density": "49",
+    "ISO": "KH-6",
+    "District": [
+      {
+        "ISO_Code": "06-01",
+        "District_Name_EN": "Baray",
+        "District_Name_KH": "ស្រុកបារាយណ៍",
+        "Population(2019)": "104,032"
+      },
+      {
+        "ISO_Code": "06-02",
+        "District_Name_EN": "Kampong Svay",
+        "District_Name_KH": "ស្រុកកំពង់ស្វាយ",
+        "Population(2019)": "90,271"
+      },
+      {
+        "ISO_Code": "06-03",
+        "District_Name_EN": "Steung Saen Municipality",
+        "District_Name_KH": "ក្រុងស្ទឹងសែន",
+        "Population(2019)": "53,118"
+      },
+      {
+        "ISO_Code": "06-04",
+        "District_Name_EN": "Prasat Balangk",
+        "District_Name_KH": "ស្រុកប្រាសាទបល្ល័ង្ក",
+        "Population(2019)": "47,888"
+      },
+      {
+        "ISO_Code": "06-05",
+        "District_Name_EN": "Prasat Sambour",
+        "District_Name_KH": "ស្រុកប្រាសាទសំបូរ",
+        "Population(2019)": "43,390"
+      },
+      {
+        "ISO_Code": "06-06",
+        "District_Name_EN": "Sandaan",
+        "District_Name_KH": "ស្រុកសណ្ដាន់",
+        "Population(2019)": "62,013"
+      },
+      {
+        "ISO_Code": "06-07",
+        "District_Name_EN": "Santuk",
+        "District_Name_KH": "ស្រុកសន្ទុក",
+        "Population(2019)": "101,428"
+      },
+      {
+        "ISO_Code": "06-08",
+        "District_Name_EN": "Stoung",
+        "District_Name_KH": "ស្រុកស្ទោង",
+        "Population(2019)": "108,372"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kampot",
+    "Province_KH": "កំពត",
+    "Capital": "Kampot",
+    "Population(2019)": "593,829",
+    "Area": "4,873",
+    "Density": "122",
+    "ISO": "KH-7",
+    "District": [
+      {
+        "ISO_Code": "07-01",
+        "District_Name_EN": "Angkor Chey",
+        "District_Name_KH": "ស្រុកអង្គរជ័យ",
+        "Population(2019)": "73,550"
+      },
+      {
+        "ISO_Code": "07-02",
+        "District_Name_EN": "Banteay Meas",
+        "District_Name_KH": "ស្រុកបន្ទាយមាស",
+        "Population(2019)": "78,828"
+      },
+      {
+        "ISO_Code": "07-03",
+        "District_Name_EN": "Chhouk",
+        "District_Name_KH": "ស្រុកឈូក",
+        "Population(2019)": "102,298"
+      },
+      {
+        "ISO_Code": "07-04",
+        "District_Name_EN": "Chum Kiri",
+        "District_Name_KH": "ស្រុកជុំគិរី",
+        "Population(2019)": "48,764"
+      },
+      {
+        "ISO_Code": "07-05",
+        "District_Name_EN": "Dang Tong",
+        "District_Name_KH": "ស្រុកដងទង់",
+        "Population(2019)": "56,025"
+      },
+      {
+        "ISO_Code": "07-06",
+        "District_Name_EN": "Kampong Trach",
+        "District_Name_KH": "ស្រុកកំពង់ត្រាច",
+        "Population(2019)": "86,444"
+      },
+      {
+        "ISO_Code": "07-07",
+        "District_Name_EN": "Tuek Chhou",
+        "District_Name_KH": "ស្រុកទឹកឈូ",
+        "Population(2019)": "110,104"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kandal",
+    "Province_KH": "កណ្តាល",
+    "Capital": "Ta Khmau",
+    "Population(2019)": "1,201,581",
+    "Area": "3,179",
+    "Density": "376",
+    "ISO": "KH-8",
+    "District": [
+      {
+        "ISO_Code": "08-01",
+        "District_Name_EN": "Kandal Stueng",
+        "District_Name_KH": "ស្រុកកណ្ដាលស្ទឹង"
+      },
+      {
+        "ISO_Code": "08-02",
+        "District_Name_EN": "Kien Svay",
+        "District_Name_KH": "ស្រុកកៀនស្វាយ"
+      },
+      {
+        "ISO_Code": "08-03",
+        "District_Name_EN": "Khsach Kandal",
+        "District_Name_KH": "ស្រុកខ្សាច់កណ្ដាល"
+      },
+      {
+        "ISO_Code": "08-04",
+        "District_Name_EN": "Kaoh Thum",
+        "District_Name_KH": "ស្រុកកោះធំ"
+      },
+      {
+        "ISO_Code": "08-05",
+        "District_Name_EN": "Leuk Daek",
+        "District_Name_KH": "ស្រុកលើកដែក"
+      },
+      {
+        "ISO_Code": "08-06",
+        "District_Name_EN": "Lvea Aem",
+        "District_Name_KH": "ស្រុកល្វាឯម"
+      },
+      {
+        "ISO_Code": "08-07",
+        "District_Name_EN": "Mukh Kampul",
+        "District_Name_KH": "ស្រុកមុខកំពូល"
+      },
+      {
+        "ISO_Code": "08-08",
+        "District_Name_EN": "Angk Snuol",
+        "District_Name_KH": "ស្រុកអង្គស្នួល"
+      },
+      {
+        "ISO_Code": "08-09",
+        "District_Name_EN": "Ponhea Lueu",
+        "District_Name_KH": "ស្រុកពញាឮ"
+      },
+      {
+        "ISO_Code": "08-10",
+        "District_Name_EN": "S'ang",
+        "District_Name_KH": "ស្រុកស្អាង"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Koh Kong",
+    "Province_KH": "កោះកុង",
+    "Capital": "Khemarak Phoumin",
+    "Population(2019)": "125,902",
+    "Area": "10,090",
+    "Density": "12",
+    "ISO": "KH-9",
+    "District": [
+      {
+        "ISO_Code": "09-01",
+        "District_Name_EN": "Botum Sakor",
+        "District_Name_KH": "ស្រុកបទុមសាគរ"
+      },
+      {
+        "ISO_Code": "09-02",
+        "District_Name_EN": "Kiri Sakor",
+        "District_Name_KH": "ស្រុកគិរីសាគរ"
+      },
+      {
+        "ISO_Code": "09-03",
+        "District_Name_EN": "Koh Kong",
+        "District_Name_KH": "ស្រុកកោះកុង"
+      },
+      {
+        "ISO_Code": "09-04",
+        "District_Name_EN": "Khemarak Phoumin Municipality (formerly Smach Mean Chey)",
+        "District_Name_KH": "ក្រុងខេមរភូមិន្ទ (អតីត ស្រុកស្មាច់មានជ័យ)"
+      },
+      {
+        "ISO_Code": "09-05",
+        "District_Name_EN": "Mondol Seima",
+        "District_Name_KH": "ស្រុកមណ្ឌលសីមា"
+      },
+      {
+        "ISO_Code": "09-06",
+        "District_Name_EN": "Srae Ambel",
+        "District_Name_KH": "ស្រុកស្រែអំបិល"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kratié",
+    "Province_KH": "ក្រចេះ",
+    "Capital": "Kratié",
+    "Population(2019)": "374,755",
+    "Area": "11,094",
+    "Density": "34",
+    "ISO": "KH-10",
+    "District": [
+      {
+        "ISO_Code": "10-01",
+        "District_Name_EN": "Chhloung",
+        "District_Name_KH": "ឆ្លូង",
+        "Population(2019)": "50,407[37]"
+      },
+      {
+        "ISO_Code": "10-02",
+        "District_Name_EN": "Kratié",
+        "District_Name_KH": "ក្រចេះ",
+        "Population(2019)": "79,123[38]"
+      },
+      {
+        "ISO_Code": "10-03",
+        "District_Name_EN": "Preaek Prasab",
+        "District_Name_KH": "ព្រែកប្រសព្វ",
+        "Population(2019)": "56,757"
+      },
+      {
+        "ISO_Code": "10-04",
+        "District_Name_EN": "Sambour",
+        "District_Name_KH": "សំបូរ",
+        "Population(2019)": "41,732"
+      },
+      {
+        "ISO_Code": "10-05",
+        "District_Name_EN": "Snuol",
+        "District_Name_KH": "ស្នួល",
+        "Population(2019)": "61603"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Mondulkiri",
+    "Province_KH": "មណ្ឌលគិរី",
+    "Capital": "Senmonorom",
+    "Population(2019)": "92,213",
+    "Area": "14,288",
+    "Density": "6",
+    "ISO": "KH-11",
+    "District": [
+      {
+        "ISO_Code": "11-01",
+        "District_Name_EN": "Kaev Seima",
+        "District_Name_KH": "ស្រុកកែវសីមា",
+        "Population(2019)": "28,904"
+      },
+      {
+        "ISO_Code": "11-02",
+        "District_Name_EN": "Kaoh Nheaek",
+        "District_Name_KH": "ស្រុកកោះញែក",
+        "Population(2019)": "22,223"
+      },
+      {
+        "ISO_Code": "11-03",
+        "District_Name_EN": "Ou Reang",
+        "District_Name_KH": "ស្រុកអូររាំង",
+        "Population(2019)": "6,645"
+      },
+      {
+        "ISO_Code": "11-04",
+        "District_Name_EN": "Pechr Chenda",
+        "District_Name_KH": "ស្រុកពេជ្រាដា",
+        "Population(2019)": "19,523"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Phnom Penh",
+    "Province_KH": "ភ្នំពេញ",
+    "Capital": "Doun Penh Section",
+    "Population(2019)": "2,281,951",
+    "Area": "679",
+    "Density": "3,136",
+    "ISO": "KH-12",
+    "District": []
+  },
+  {
+    "Province_EN": "Preah Vihear",
+    "Province_KH": "ព្រះវិហារ",
+    "Capital": "Tbaeng Meanchey",
+    "Population(2019)": "254,827",
+    "Area": "13,788",
+    "Density": "18",
+    "ISO": "KH-13",
+    "District": [
+      {
+        "ISO_Code": "13-01",
+        "District_Name_EN": "Chey Saen",
+        "District_Name_KH": "ស្រុកជ័យសែន"
+      },
+      {
+        "ISO_Code": "13-02",
+        "District_Name_EN": "Chhaeb",
+        "District_Name_KH": "ស្រុកឆែប"
+      },
+      {
+        "ISO_Code": "13-03",
+        "District_Name_EN": "Choam Khsant",
+        "District_Name_KH": "ស្រុកជាំក្សាន្ត"
+      },
+      {
+        "ISO_Code": "13-04",
+        "District_Name_EN": "Kuleaen",
+        "District_Name_KH": "ស្រុកគូលែន"
+      },
+      {
+        "ISO_Code": "13-05",
+        "District_Name_EN": "Rovieng",
+        "District_Name_KH": "ស្រុករវៀង"
+      },
+      {
+        "ISO_Code": "13-06",
+        "District_Name_EN": "Sangkom Thmei",
+        "District_Name_KH": "ស្រុកសង្គមថ្មី"
+      },
+      {
+        "ISO_Code": "13-07",
+        "District_Name_EN": "Tbaeng Meanchey",
+        "District_Name_KH": "ស្រុកត្បែងមានជ័យ"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Prey Veng",
+    "Province_KH": "ព្រៃវែង",
+    "Capital": "Prey Veng",
+    "Population(2019)": "1,057,720",
+    "Area": "4,883",
+    "Density": "217",
+    "ISO": "KH-14",
+    "District": [
+      {
+        "ISO_Code": "14-01",
+        "District_Name_EN": "Ba Phnum",
+        "District_Name_KH": "ស្រុកបាភ្នំ"
+      },
+      {
+        "ISO_Code": "14-02",
+        "District_Name_EN": "Kamchay Mear",
+        "District_Name_KH": "ស្រុកកំចាយមារ"
+      },
+      {
+        "ISO_Code": "14-03",
+        "District_Name_EN": "Kampong Trabaek",
+        "District_Name_KH": "ស្រុកកំពង់ត្របែក"
+      },
+      {
+        "ISO_Code": "14-04",
+        "District_Name_EN": "Kanhchriech",
+        "District_Name_KH": "ស្រុកកញ្ជ្រៀច"
+      },
+      {
+        "ISO_Code": "14-05",
+        "District_Name_EN": "Me Sang",
+        "District_Name_KH": "ស្រុកមេសាង"
+      },
+      {
+        "ISO_Code": "14-06",
+        "District_Name_EN": "Peam Chor",
+        "District_Name_KH": "ស្រុកពាមជរ"
+      },
+      {
+        "ISO_Code": "14-07",
+        "District_Name_EN": "Peam Ro",
+        "District_Name_KH": "ស្រុកពាមរក៍"
+      },
+      {
+        "ISO_Code": "14-08",
+        "District_Name_EN": "Pea Reang",
+        "District_Name_KH": "ស្រុកពារាំង"
+      },
+      {
+        "ISO_Code": "14-09",
+        "District_Name_EN": "Preah Sdach",
+        "District_Name_KH": "ស្រុកព្រះស្ដេច"
+      },
+      {
+        "ISO_Code": "14-10",
+        "District_Name_EN": "Prey Veng Municipality",
+        "District_Name_KH": "ក្រុងព្រៃវែង"
+      },
+      {
+        "ISO_Code": "14-11",
+        "District_Name_EN": "Pur Rieng",
+        "District_Name_KH": "ស្រុកពោធិ៍រៀង"
+      },
+      {
+        "ISO_Code": "14-12",
+        "District_Name_EN": "Sithor Kandal",
+        "District_Name_KH": "ស្រុកស៊ីធរកណ្ដាល"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Pursat",
+    "Province_KH": "ពោធិ៍សាត់",
+    "Capital": "Pursat",
+    "Population(2019)": "419,752",
+    "Area": "12,692",
+    "Density": "32",
+    "ISO": "KH-15",
+    "District": [
+      {
+        "ISO_Code": "15-01",
+        "District_Name_EN": "Bakan",
+        "District_Name_KH": "ស្រុកបាកាន"
+      },
+      {
+        "ISO_Code": "15-02",
+        "District_Name_EN": "Kandieng",
+        "District_Name_KH": "ស្រុកកណ្តៀង"
+      },
+      {
+        "ISO_Code": "15-03",
+        "District_Name_EN": "Krakor",
+        "District_Name_KH": "ស្រុកក្រគរ"
+      },
+      {
+        "ISO_Code": "15-04",
+        "District_Name_EN": "Phnum Kravanh",
+        "District_Name_KH": "ស្រុកភ្នំក្រវាញ"
+      },
+      {
+        "ISO_Code": "15-05",
+        "District_Name_EN": "Pursat Municipality (formerly Sampov Meas)",
+        "District_Name_KH": "ក្រុងពោធិ៍សាត់ (អតីត ស្រុកសំពៅមាស)"
+      },
+      {
+        "ISO_Code": "15-06",
+        "District_Name_EN": "Veal Veang",
+        "District_Name_KH": "ស្រុកវាលវែង"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Ratanakiri",
+    "Province_KH": "រតនគិរី",
+    "Capital": "Banlung",
+    "Population(2019)": "217,453",
+    "Area": "10,782",
+    "Density": "19",
+    "ISO": "KH-16",
+    "District": [
+      {
+        "ISO_Code": "1601",
+        "District_Name_EN": "Andoung Meas",
+        "District_Name_KH": "Malik, Nhang, Ta Lav",
+        "Population(2019)": "17,617"
+      },
+      {
+        "ISO_Code": "1602",
+        "District_Name_EN": "Banlung Municipality",
+        "District_Name_KH": "",
+        "Population(2019)": "30,399"
+      },
+      {
+        "ISO_Code": "1603",
+        "District_Name_EN": "Bar Kaev",
+        "District_Name_KH": "",
+        "Population(2019)": "28,279"
+      },
+      {
+        "ISO_Code": "1604",
+        "District_Name_EN": "Koun Mom",
+        "District_Name_KH": "",
+        "Population(2019)": "30,810"
+      },
+      {
+        "ISO_Code": "1605",
+        "District_Name_EN": "Lumphat",
+        "District_Name_KH": "",
+        "Population(2019)": "27,839"
+      },
+      {
+        "ISO_Code": "1606",
+        "District_Name_EN": "Ou Chum",
+        "District_Name_KH": "",
+        "Population(2019)": "25,301"
+      },
+      {
+        "ISO_Code": "1607",
+        "District_Name_EN": "Ou Ya Dav",
+        "District_Name_KH": "",
+        "Population(2019)": "23,932"
+      },
+      {
+        "ISO_Code": "1608",
+        "District_Name_EN": "Ta Veaeng",
+        "District_Name_KH": "",
+        "Population(2019)": "7,503"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Siem Reap",
+    "Province_KH": "សៀមរាប",
+    "Capital": "Siem Reap",
+    "Population(2019)": "1,014,234",
+    "Area": "10,299",
+    "Density": "98",
+    "ISO": "KH-17",
+    "District": [
+      {
+        "ISO_Code": "17-01",
+        "District_Name_EN": "Angkor Chum",
+        "District_Name_KH": "ស្រុកអង្គរជុំ"
+      },
+      {
+        "ISO_Code": "17-02",
+        "District_Name_EN": "Angkor Thom",
+        "District_Name_KH": "ស្រុកអង្គរធំ"
+      },
+      {
+        "ISO_Code": "17-03",
+        "District_Name_EN": "Banteay Srei",
+        "District_Name_KH": "ស្រុកបន្ទាយស្រី"
+      },
+      {
+        "ISO_Code": "17-04",
+        "District_Name_EN": "Chi Kraeng",
+        "District_Name_KH": "ស្រុកជីក្រែង"
+      },
+      {
+        "ISO_Code": "17-06",
+        "District_Name_EN": "Kralanh",
+        "District_Name_KH": "ស្រុកក្រឡាញ់"
+      },
+      {
+        "ISO_Code": "17-07",
+        "District_Name_EN": "Puok",
+        "District_Name_KH": "ស្រុកពួក"
+      },
+      {
+        "ISO_Code": "17-09",
+        "District_Name_EN": "Prasat Bakong",
+        "District_Name_KH": "ស្រុកប្រាសាទបាគង"
+      },
+      {
+        "ISO_Code": "17-10",
+        "District_Name_EN": "Siem Reap Municipality",
+        "District_Name_KH": "ក្រុងសៀមរាប"
+      },
+      {
+        "ISO_Code": "17-11",
+        "District_Name_EN": "Sout Nikom",
+        "District_Name_KH": "ស្រុកសូទ្រនិគម"
+      },
+      {
+        "ISO_Code": "17-12",
+        "District_Name_EN": "Srei Snam",
+        "District_Name_KH": "ស្រុកស្រីស្នំ"
+      },
+      {
+        "ISO_Code": "17-13",
+        "District_Name_EN": "Svay Leu",
+        "District_Name_KH": "ស្រុកស្វាយលើ"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Preah Sihanouk",
+    "Province_KH": "ព្រះសីហនុ",
+    "Capital": "Sihanoukville",
+    "Population(2019)": "310,072",
+    "Area": "1,938",
+    "Density": "156",
+    "ISO": "KH-18",
+    "District": []
+  },
+  {
+    "Province_EN": "Stung Treng",
+    "Province_KH": "ស្ទឹងត្រែង",
+    "Capital": "Stung Treng",
+    "Population(2019)": "165,713",
+    "Area": "11,092",
+    "Density": "14",
+    "ISO": "KH-19",
+    "District": [
+      {
+        "ISO_Code": "19-01",
+        "District_Name_EN": "Sesan",
+        "District_Name_KH": "ស្រុកសេសាន"
+      },
+      {
+        "ISO_Code": "19-02",
+        "District_Name_EN": "Siem Bouk",
+        "District_Name_KH": "ស្រុកសៀមបូក"
+      },
+      {
+        "ISO_Code": "19-03",
+        "District_Name_EN": "Siem Pang",
+        "District_Name_KH": "ស្រុកសៀមប៉ាង"
+      },
+      {
+        "ISO_Code": "19-04",
+        "District_Name_EN": "Stung Treng Municipality",
+        "District_Name_KH": "ក្រុងស្ទឹងត្រែង"
+      },
+      {
+        "ISO_Code": "19-05",
+        "District_Name_EN": "Thala Barivat",
+        "District_Name_KH": "ស្រុកថាឡាបរិវ៉ាត់"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Svay Rieng",
+    "Province_KH": "ស្វាយរៀង",
+    "Capital": "Svay Rieng",
+    "Population(2019)": "525,497",
+    "Area": "2,966",
+    "Density": "177",
+    "ISO": "KH-20",
+    "District": [
+      {
+        "ISO_Code": "20-01",
+        "District_Name_EN": "Chanthrea",
+        "District_Name_KH": "ស្រុកចន្ទ្រា"
+      },
+      {
+        "ISO_Code": "20-02",
+        "District_Name_EN": "Kampong Rou",
+        "District_Name_KH": "ស្រុកកំពង់រោទិ៍"
+      },
+      {
+        "ISO_Code": "20-03",
+        "District_Name_EN": "Romdoul",
+        "District_Name_KH": "ស្រុករំដួល"
+      },
+      {
+        "ISO_Code": "20-04",
+        "District_Name_EN": "Romeas Haek",
+        "District_Name_KH": "ស្រុករមាសហែក"
+      },
+      {
+        "ISO_Code": "20-05",
+        "District_Name_EN": "Svay Chrom",
+        "District_Name_KH": "ស្រុកស្វាយជ្រំ"
+      },
+      {
+        "ISO_Code": "20-06",
+        "District_Name_EN": "Svay Rieng Municipality",
+        "District_Name_KH": "ក្រុងស្វាយរៀង"
+      },
+      {
+        "ISO_Code": "20-07",
+        "District_Name_EN": "Svay Theab",
+        "District_Name_KH": "ស្រុកស្វាយទាប"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Takéo",
+    "Province_KH": "តាកែវ",
+    "Capital": "Doun Kaev",
+    "Population(2019)": "900,914",
+    "Area": "3,563",
+    "Density": "252",
+    "ISO": "KH-21",
+    "District": [
+      {
+        "ISO_Code": "21-01",
+        "District_Name_EN": "Angkor Borei",
+        "District_Name_KH": "ស្រុកអង្គរបូរី"
+      },
+      {
+        "ISO_Code": "21-02",
+        "District_Name_EN": "Bati",
+        "District_Name_KH": "ស្រុកបាទី"
+      },
+      {
+        "ISO_Code": "21-03",
+        "District_Name_EN": "Bourei Cholsar",
+        "District_Name_KH": "ស្រុកបូរីជលសារ"
+      },
+      {
+        "ISO_Code": "21-04",
+        "District_Name_EN": "Kiri Vong",
+        "District_Name_KH": "ស្រុកគីរីវង់"
+      },
+      {
+        "ISO_Code": "21-05",
+        "District_Name_EN": "Koh Andaet",
+        "District_Name_KH": "ស្រុកកោះអណ្ដែត"
+      },
+      {
+        "ISO_Code": "21-06",
+        "District_Name_EN": "Prey Kabbas",
+        "District_Name_KH": "ស្រុកព្រៃកប្បាស"
+      },
+      {
+        "ISO_Code": "21-07",
+        "District_Name_EN": "Samraŏng",
+        "District_Name_KH": "ស្រុកសំរោង"
+      },
+      {
+        "ISO_Code": "21-08",
+        "District_Name_EN": "Doun Kaev Municipality",
+        "District_Name_KH": "ក្រុងដូនកែវ"
+      },
+      {
+        "ISO_Code": "21-09",
+        "District_Name_EN": "Tram Kak",
+        "District_Name_KH": "ស្រុកត្រាំកក់"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Oddar Meanchey",
+    "Province_KH": "ឧត្តរមានជ័យ",
+    "Capital": "Samraong",
+    "Population(2019)": "276,038",
+    "Area": "6,158",
+    "Density": "42",
+    "ISO": "KH-22",
+    "District": [
+      {
+        "ISO_Code": "12-01",
+        "District_Name_EN": "Anlong Veng",
+        "District_Name_KH": "អន្លង់វែង"
+      },
+      {
+        "ISO_Code": "12-02",
+        "District_Name_EN": "Banteay Ampil",
+        "District_Name_KH": "បន្ទាយអំពិល"
+      },
+      {
+        "ISO_Code": "12-03",
+        "District_Name_EN": "Chong Kal",
+        "District_Name_KH": "ចុងកាល់"
+      },
+      {
+        "ISO_Code": "12-04",
+        "District_Name_EN": "Samraong",
+        "District_Name_KH": "សំរោង"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Kep",
+    "Province_KH": "កែប",
+    "Capital": "Kep",
+    "Population(2019)": "42,665",
+    "Area": "336",
+    "Density": "124",
+    "ISO": "KH-23",
+    "District": [
+      {
+        "ISO_Code": "23-01",
+        "District_Name_EN": "Damnak Chang'aeur",
+        "District_Name_KH": "ស្រុកដំណាក់ចង្អើរ"
+      }
+    ]
+  },
+  {
+    "Province_EN": "Pailin",
+    "Province_KH": "ប៉ៃលិន",
+    "Capital": "Pailin",
+    "Population(2019)": "75,112",
+    "Area": "803",
+    "Density": "89",
+    "ISO": "KH-24",
+    "District": [
+      {
+        "ISO_Code": "24-01",
+        "District_Name_EN": "Pailin Municipality",
+        "District_Name_KH": "ក្រុងប៉ៃលិន"
+      }
+    ]
+  }
+]
